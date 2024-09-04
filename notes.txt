@@ -1,0 +1,4 @@
+python topics to cover:
+Lambda -> in functions
+Evaluate -> eval
+
